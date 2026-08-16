@@ -140,14 +140,30 @@ I'm currently focused on strengthening my foundations while building practical s
 * Django
 * Cloud & System Design
 
+## Featured Projects
 
-* AI/ML applications
-* NLP and intelligent systems
-* Building practical products that solve real-world problems
+### [Alien Invasion](https://github.com/Shahan-Waheed728/Alien-Invasion)
 
-### Current Projects
+A Python/Pygame project inspired by the classic Alien Invasion game. I'm using it to strengthen my understanding of **Python, OOP, game loops, sprites, event handling, movement, bullets, collision detection, and project architecture**.
 
-* **Alien Invasion** — Python/Pygame project focused on OOP, game architecture, events, sprites, movement, bullets, and collisions
-* **AI Resume Screener** — AI/ML application for resume analysis and matching
-* **SW Rentals** — Object-oriented vehicle rental management system
+**Focus:** Python · OOP · Pygame · Game Development
+
+---
+
+### [AI Resume Screener](https://github.com/Shahan-Waheed728/AI-Resume-Screener)
+
+An AI-powered resume screening application that analyzes resumes and evaluates their relevance to job requirements using **NLP and machine-learning techniques**.
+
+The project combines **TF-IDF, cosine similarity, Random Forest classification, and neural-network-based scoring** to produce resume matching results.
+
+**Focus:** Python · NLP · Machine Learning · scikit-learn · TensorFlow · Streamlit
+
+---
+
+### SW Rentals — SQL Project
+
+A vehicle rental database project created to strengthen my understanding of **SQL and relational database concepts**, including filtering, sorting, aggregation, grouping, constraints, and database design.
+
+**Focus:** SQL · MySQL · Relational Databases · Database Design
+
 
