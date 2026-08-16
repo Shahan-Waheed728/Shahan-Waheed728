@@ -166,4 +166,22 @@ A vehicle rental database project created to strengthen my understanding of **SQ
 
 **Focus:** SQL · MySQL · Relational Databases · Database Design
 
+## Learning Philosophy
+
+I believe software engineering is not about memorizing frameworks or collecting technologies.
+
+It's about understanding **fundamentals, solving problems, making engineering decisions, and continuously improving**.
+
+I learn by:
+
+* Studying concepts deeply
+* Building projects
+* Experimenting and testing ideas
+* Debugging and learning from mistakes
+* Understanding why things work
+* Applying engineering principles to real-world problems
+* Continuously improving existing projects
+
+> **Learn → Build → Break → Debug → Understand → Improve → Repeat.**
+
 
