@@ -184,4 +184,22 @@ I learn by:
 
 > **Learn → Build → Break → Debug → Understand → Improve → Repeat.**
 
+## GitHub Activity
+
+I use GitHub as more than a place to store code. It is where I document my learning, build projects, experiment with ideas, and practice professional development workflows.
+
+My focus is on **consistent progress, meaningful commits, project quality, and continuous improvement**.
+
+### What you'll find here
+
+* Python projects and experiments
+* AI/ML applications
+* SQL and database projects
+* Backend and API development
+* Docker and development workflows
+* Pygame projects
+* Learning experiments and technical practice
+
+> **Consistency compounds. Every commit is a small step toward becoming a better engineer.**
+
 
