@@ -27,3 +27,43 @@ I enjoy learning by building — taking concepts from tutorials and books and tu
 
 > **I don't want to just learn how to write code. I want to understand how to engineer software.**
 
+## My Engineering Journey
+
+I'm following a long-term path from programming fundamentals to building and scaling real-world software systems.
+
+```text
+Programming Fundamentals
+        ↓
+Python & Object-Oriented Programming
+        ↓
+Advanced Python & Software Design
+        ↓
+SQL & Database Engineering
+        ↓
+Backend Development & REST APIs
+        ↓
+FastAPI & Production Services
+        ↓
+Git, GitHub & Collaborative Development
+        ↓
+Docker & DevOps
+        ↓
+React & Full-Stack Development
+        ↓
+AI/ML & Intelligent Applications
+        ↓
+System Design & Distributed Systems
+        ↓
+Cloud & Scalable Architecture
+        ↓
+Open Source & Real-World Products
+        ↓
+Building Technology Products
+```
+
+### The Long-Term Direction
+
+My goal is not to simply learn more programming languages or frameworks.
+
+I want to understand the **fundamentals, architecture, trade-offs, and engineering practices** behind reliable software systems — and eventually use that knowledge to build products that solve meaningful real-world problems.
+
