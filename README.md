@@ -95,6 +95,52 @@ I'm currently focused on strengthening my foundations while building practical s
 
 ### AI & Software Products
 
+## Tech Stack
+
+### Languages & Web
+
+* Python
+* C++
+* JavaScript
+* HTML
+* CSS
+
+### Backend & APIs
+
+* FastAPI
+
+### Databases
+
+* MySQL
+* SQLite
+* Oracle
+
+### Tools & DevOps
+
+* Git
+* GitHub
+* Docker
+* Linux
+
+### AI / Machine Learning
+
+* scikit-learn
+* TensorFlow
+* pandas
+* NumPy
+
+### Game Development
+
+* Pygame
+
+### Exploring Next
+
+* PostgreSQL
+* React
+* Django
+* Cloud & System Design
+
+
 * AI/ML applications
 * NLP and intelligent systems
 * Building practical products that solve real-world problems
