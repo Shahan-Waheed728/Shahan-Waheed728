@@ -67,3 +67,41 @@ My goal is not to simply learn more programming languages or frameworks.
 
 I want to understand the **fundamentals, architecture, trade-offs, and engineering practices** behind reliable software systems — and eventually use that knowledge to build products that solve meaningful real-world problems.
 
+## Current Focus
+
+I'm currently focused on strengthening my foundations while building practical software projects.
+
+### Python & Backend
+
+* Advanced Python concepts
+* Object-Oriented Programming
+* Decorators, generators, iterators, and deeper Python internals
+* FastAPI and REST API development
+* Uvicorn and ASGI fundamentals
+
+### Databases
+
+* SQL fundamentals
+* Relational database design
+* SQLite for development and experimentation
+* PostgreSQL as my next production-oriented database focus
+
+### Engineering Tools
+
+* Git & GitHub
+* Docker
+* Linux
+* Clean code and software engineering practices
+
+### AI & Software Products
+
+* AI/ML applications
+* NLP and intelligent systems
+* Building practical products that solve real-world problems
+
+### Current Projects
+
+* **Alien Invasion** — Python/Pygame project focused on OOP, game architecture, events, sprites, movement, bullets, and collisions
+* **AI Resume Screener** — AI/ML application for resume analysis and matching
+* **SW Rentals** — Object-oriented vehicle rental management system
+
