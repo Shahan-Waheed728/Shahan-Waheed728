@@ -202,4 +202,21 @@ My focus is on **consistent progress, meaningful commits, project quality, and c
 
 > **Consistency compounds. Every commit is a small step toward becoming a better engineer.**
 
+## Connect With Me
+
+I'm always interested in connecting with fellow developers, engineers, students, and people building interesting technology.
+
+* **LinkedIn:** [Shahan Waheed](https://www.linkedin.com/in/shahan-waheed-ba1667363/)
+* **GitHub:** [Shahan-Waheed728](https://github.com/Shahan-Waheed728)
+* **Email:** [Shahan Waheed](shahanwaheed43@gmail.com)
+* **Portfolio:** Coming soon
+
+---
+
+### Keep Building
+
+> **Start small. Think deeply. Build consistently. Improve continuously.**
+
+Thanks for visiting my profile! 
+
 
